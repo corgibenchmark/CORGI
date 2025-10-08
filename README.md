@@ -1,5 +1,5 @@
 
-# CORGI: A Business-Domain Text-to-SQL Benchmark
+# Agent Bain vs. Agent McKinsey: A New Text-to-SQL Benchmark for the Business Domain -- CORGI
 
 > **Agent Bain vs. Agent McKinsey: A New Text-to-SQL Benchmark for the Business Domain**  
 
