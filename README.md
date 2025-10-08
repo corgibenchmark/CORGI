@@ -32,7 +32,7 @@ The dataset can also be downloaded from https://drive.google.com/drive/folders/1
 
 ## 🧩 Framework Overview
 
-<img src="figures/Eval-figure.png" alt="Atomized Evaluation Framework" width="60%">
+<img src="figures/Eval-figure.png" alt="Atomized Evaluation Framework" width="50%">
 
 *Figure 1: Multi-agent evaluation framework integrating business logic with schema-driven data simulation.*
 
