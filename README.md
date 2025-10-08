@@ -41,7 +41,7 @@ Unlike existing datasets (e.g., Spider, WikiSQL, BIRD), CORGI moves beyond factu
 
 ## 💡 Query Taxonomy
 
-![Query Categories](./assets/question_types.png)
+![Query Categories](figures/4Q.pdf)
 
 *Figure 2: Four categories of business questions from descriptive retrieval to strategic recommendation.*
 
