@@ -1,0 +1,3 @@
+App store 
+Example: Google Play
+This type of business connects developers and users through app discovery, download, and monetization. Users can log in socially, maintain balances, and use multiple payment methods; developers can publish apps with version control, pricing models, and platform support; apps are categorized and tagged for enhanced discoverability; and usage is tracked through downloads, installations, rankings, and reviews.
