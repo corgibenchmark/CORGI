@@ -33,7 +33,7 @@ Unlike existing datasets (e.g., Spider, WikiSQL, BIRD), CORGI moves beyond factu
 
 ## 🧩 Framework Overview
 
-![Atomized Evaluation Framework](./assets/framework.png)
+![Atomized Evaluation Framework](figures/Eval-figure.png)
 
 *Figure 1: Multi-agent evaluation framework integrating business logic with schema-driven data simulation.*
 
