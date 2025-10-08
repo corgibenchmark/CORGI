@@ -40,7 +40,7 @@ The dataset can also be downloaded from https://drive.google.com/drive/folders/1
 
 ## 💡 Query Taxonomy
 
-<img src="figures/4Q-figure.png" alt="Query Categories" width="70%">
+<img src="figures/4Q-figure.png" alt="Query Categories" width="80%">
 
 *Figure 2: Four categories of business questions from descriptive retrieval to strategic recommendation.*
 
