@@ -103,7 +103,6 @@ The dataset can also be downloaded from https://drive.google.com/drive/folders/1
 
 - **Dataset & Evaluation Framework:** [github.com/corgibenchmark/CORGI](https://github.com/corgibenchmark/CORGI)  
 - **Online Evaluation Platform:** [txt2sql.com](https://txt2sql.com)  
-- **More Info:** [bird-bench.github.io](https://bird-bench.github.io/)
 
 ---
 
