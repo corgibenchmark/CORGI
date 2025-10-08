@@ -1,0 +1,3 @@
+Online room booking platform
+Example: Airbnb
+This type of business operates in the short-term rental and vacation housing market, connecting hosts who want to rent out properties with guests seeking accommodation. Users can act as either Hosts or Guests. Listings are tied to specific neighborhoods, cities, and countries through hierarchical foreign keys. Each listing includes details such as RoomTypes, pricing, amenities, availability, and policies. Booking activities are linked to users and listings, and supported by payment infrastructure (Payments, PaymentMethods, UserPaymentMethods). The system also tracks user engagement through Reviews and UserFavorites.
