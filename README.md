@@ -1,7 +1,4 @@
-
 # CORGI: A New Text-to-SQL Benchmark for the Business Domain
-
-> **Agent Bain vs. Agent McKinsey: A New Text-to-SQL Benchmark for the Business Domain**  
 
 ---
 
@@ -35,7 +32,7 @@ The dataset can also be downloaded from https://drive.google.com/drive/folders/1
 
 ## 🧩 Framework Overview
 
-![Atomized Evaluation Framework](figures/Eval-figure.png)
+<img src="figures/Eval-figure.png" alt="Atomized Evaluation Framework" width="60%">
 
 *Figure 1: Multi-agent evaluation framework integrating business logic with schema-driven data simulation.*
 
@@ -117,15 +114,4 @@ If you use CORGI in your research, please cite:
   year={2025},
   journal={ACL Submission},
 }
-```
 
----
-
-## ⚠️ Limitations & Ethics
-
-- Databases are **synthetic** — privacy-safe but lack natural noise.  
-- Only **single-turn** questions are supported in v1.  
-- Each query has a single canonical NL formulation (no paraphrase robustness).  
-- Includes built-in **ethical evaluation dimension** for responsible recommendations.
-
----
