@@ -40,7 +40,7 @@ The dataset can also be downloaded from https://drive.google.com/drive/folders/1
 
 ## 💡 Query Taxonomy
 
-![Query Categories](figures/4Q-figure.png)
+<img src="figures/4Q-figure.png" alt="Query Categories" width="60%">
 
 *Figure 2: Four categories of business questions from descriptive retrieval to strategic recommendation.*
 
@@ -114,4 +114,3 @@ If you use CORGI in your research, please cite:
   year={2025},
   journal={ACL Submission},
 }
-
