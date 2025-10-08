@@ -12,6 +12,8 @@ Unlike existing datasets (e.g., Spider, WikiSQL, BIRD), CORGI moves beyond factu
 
 > The benchmark draws inspiration from enterprises such as **Doordash**, **Airbnb**, and **Lululemon**, covering 10 major verticals across consumer platforms, retail, and digital services.
 
+The dataset can also be downloaded from https://drive.google.com/drive/folders/1w3MjpcdeccC6XJ7ODYOL56-baoVgoPAe?usp=sharing 
+
 ---
 
 ## 📊 Key Contributions
