@@ -100,17 +100,3 @@ The dataset can also be downloaded from https://drive.google.com/drive/folders/1
 
 - **Dataset & Evaluation Framework:** [github.com/corgibenchmark/CORGI](https://github.com/corgibenchmark/CORGI)  
 - **Online Evaluation Platform:** [txt2sql.com](https://txt2sql.com)  
-
----
-
-## 🧾 Citation
-
-If you use CORGI in your research, please cite:
-
-```bibtex
-@article{corgi2025,
-  title={Agent Bain vs. Agent McKinsey: A New Text-to-SQL Benchmark for the Business Domain},
-  author={Anonymous},
-  year={2025},
-  journal={ACL Submission},
-}
